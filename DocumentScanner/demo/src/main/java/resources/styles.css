@@ -1,0 +1,15 @@
+.button {
+    -fx-font-size: 14px;
+    -fx-background-color: #0078D7;
+    -fx-text-fill: white;
+    -fx-padding: 10px 20px;
+}
+
+.button:hover {
+    -fx-background-color: #0056A1;
+}
+
+.image-view {
+    -fx-fit-width: 100%;
+    -fx-fit-height: 100%;
+}

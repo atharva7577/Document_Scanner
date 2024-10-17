@@ -1,0 +1,4 @@
+com\documentscanner\view\ScannerView.class
+com\documentscanner\controller\ScannerController.class
+com\documentscanner\Main.class
+com\documentscanner\model\Document.class
